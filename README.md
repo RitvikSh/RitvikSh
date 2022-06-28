@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm RITVIK SHARMA
 - 🌱 I’m currently learning Web Development
 - 🔭 I’m currently working on some development projects
 - 📫 reach me @ ritviksharma2023@gmail.com
 
-###  Let's Connect:- 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/ritvik-sharma-573325197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritvik-sharma-573325197" height="30" width="40" /></a>
 </p>
